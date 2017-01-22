@@ -11,6 +11,8 @@ I will document the different strands of learning that I engage in. Here's a wee
 ## Week One 20170101 - 20170107
 
 links to 
+
+* []()
 -->
 
 ## Week Three 20170115 - 20170121
@@ -21,5 +23,6 @@ links to
 
 
 ## Week One 20170101 - 20170107
-* TK 100 days of writing
-* TK 100 days of code
+* Set up [100 Days of Writing](https://github.com/janzeteachesit/100-days-of-writing) - GitHub
+* TK Set up [100 days of code)(https://github.com/janzeteachesit/100-days-of-code) - GitHub
+
