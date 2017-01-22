@@ -2,4 +2,4 @@
 
 ## What - Why - When (added{:due}) - How (implement it)
 
-[ ] [freeCodeCamp/about](https://www.freecodecamp.com/about/) - Great example for STEM site/course/... - 20170121
+- [ ] [freeCodeCamp/about](https://www.freecodecamp.com/about/) - Great example for STEM site/course/... - 20170121
