@@ -1,4 +1,4 @@
-# My Great Big List of Things to Read and Learn
+# My Great Big List of Things to Read, Learn and Do
 
 ## What - Why - When (added{:due}) - How (implement it)
 
