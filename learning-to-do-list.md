@@ -1,3 +1,5 @@
+[Learning Diary](https://github.com/janzeteachesit/forever-learning/blob/master/README.md)
+
 # My Great Big List of Things to Read, Learn and Do
 
 ## What - Why - When (added{:due}) - How (implement it)
