@@ -1,4 +1,4 @@
-[Learning Diary](https://github.com/janzeteachesit/forever-learning/blob/master/README.md)
+[Learning Diary](https://github.com/janzeteachesit/forever-learning/docs/main.md)
 
 # My Great Big List of Things to Read, Learn and Do
 
