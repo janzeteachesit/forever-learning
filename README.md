@@ -1,4 +1,4 @@
-[Learning To Do list](https://github.com/janzeteachesit/forever-learning/blob/master/learning-to-do-list.md)
+[Learning Diary](https://github.com/janzeteachesit/forever-learning/blob/master/README.md)
 
 # Forever Learning
 
@@ -20,6 +20,7 @@ links to
 ## Week Three 20170115 - 20170121
  * set up [My Learning Diary](https://github.com/janzeteachesit/forever-learning)
  * set up [APCSP-I2CS GitHub Classroom](https://github.com/templetontitan/20162017-classroom-outline)
+   * [knowledge/markdown](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/markdown.md)
 
 ## Week Two 20170108 - 20170114
 
