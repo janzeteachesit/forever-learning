@@ -13,3 +13,4 @@
 - [ ] [freeCodeCamp Academic Honesty](https://www.freecodecamp.com/academic-honesty) & [fcc GitHub Classroom](https://github.com/templetontitan/20162017-classroom-outline/blob/master/practice/freecodecamp.md) - own courses - 20170122:20170128
 - [ ] [freeCodeCamp/about](https://www.freecodecamp.com/about/) - Great example for STEM site/course/... - 201701221
 - [ ] [Math Group math texts - GitHub](https://github.com/B3nszy/The-Math-Group) - to learn more Math - 20170122 - teach Math better
+  - [ ] [Math Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm)
