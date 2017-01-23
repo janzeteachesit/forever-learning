@@ -1,4 +1,4 @@
-* [Learning To Do lsit](https://github.com/janzeteachesit/forever-learning/blob/master/learning-to-do-list.md)
+[Learning To Do list](https://github.com/janzeteachesit/forever-learning/blob/master/learning-to-do-list.md)
 
 # Forever Learning
 
