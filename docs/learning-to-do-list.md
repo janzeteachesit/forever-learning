@@ -4,7 +4,7 @@
 
 ## What - Why - When (added{:due}) - How (implement it)
 
-- [ ] [GitHub classroom](https://classroom.github.com/classrooms/17445834-2016-2017-ap-csp-i2cs) -  Assignments:  - 20170122:20170121
+- [ ] [GitHub classroom](https://classroom.github.com/classrooms/17445834-2016-2017-ap-csp-i2cs) -  Assignments:  - 20170122:20170123
     - [ ] [Say Hello](https://classroom.github.com/assignment-invitations/1530a34b6103959d1b448bea84c51d73), [20162017-classroom-outline repo](https://github.com/templetontitan/20162017-classroom-outline)
     - [ ] [Set Up Learning Log](https://classroom.github.com/assignment-invitations/036035f4d79c5ffac8af470966f0b948),  [forever-learning repo](https://github.com/templetontitan/forever-learning)
     - [ ] [github-fork-a-repo](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-fork-a-repo.md)
