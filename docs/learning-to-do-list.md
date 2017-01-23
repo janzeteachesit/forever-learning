@@ -1,4 +1,4 @@
-[Learning Diary](main.md)
+[Learning Diary](./main.md)
 
 # My Great Big List of Things to Read, Learn and Do
 
