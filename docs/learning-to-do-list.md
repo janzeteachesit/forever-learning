@@ -14,3 +14,5 @@
 - [ ] [freeCodeCamp/about](https://www.freecodecamp.com/about/) - Great example for STEM site/course/... - 201701221
 - [ ] [Math Group math texts - GitHub](https://github.com/B3nszy/The-Math-Group) - to learn more Math - 20170122 - teach Math better
   - [ ] [Math Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm)
+- [ ] [Under 13 GMail Conundrum](https://blog.skilstak.io/under-13-gmail-conundrum-743fabe77549#.71usmpksy) - for ELEM Inquiry - 20170122
+- [ ] Collaborative Student work space - 20170122 - for STEM classes
