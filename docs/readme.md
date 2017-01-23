@@ -29,5 +29,5 @@ links to
 
 ## Week One 20170101 - 20170107
 * Set up [100 Days of Writing](https://github.com/janzeteachesit/100-days-of-writing) - GitHub
-* TK Set up [100 days of code)(https://github.com/janzeteachesit/100-days-of-code) - GitHub
+* Set up [100 Days of Code](https://github.com/janzeteachesit/100-days-of-code) - GitHub
 
