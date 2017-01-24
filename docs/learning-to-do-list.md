@@ -49,6 +49,9 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 http://www.w3schools.com/js/js_operators.asp
 https://stackoverflow.com/questions/16505559/how-can-i-use-modulo-operator-in-javascript
 http://www.w3schools.com/js/js_output.asp
+https://www.reddit.com/r/Python/comments/e5r6d/is_project_euler_too_lofty_a_goal_for_a_beginner/
+
+
 
 
 
