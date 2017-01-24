@@ -10,6 +10,7 @@
     - [ ] [github-fork-a-repo](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-fork-a-repo.md)
     - [ ] [github-pages](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-pages.md)
     - [ ] [github-sync-a-repo](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-sync-a-repo.md)
+- [ ] [GitHub Pages themes](https://github.com/pages-themes) - override a Jekyll theme's defaults with your site's content. For more information about the Jekyll theme files you can override, see your theme's README or other documentation in your theme's source repository - 20170123 - setup easy to use STEM sites
 - [ ] [freeCodeCamp Academic Honesty](https://www.freecodecamp.com/academic-honesty) & [fcc GitHub Classroom](https://github.com/templetontitan/20162017-classroom-outline/blob/master/practice/freecodecamp.md) - own courses - 20170122:20170128
 - [ ] [freeCodeCamp/about](https://www.freecodecamp.com/about/) - Great example for STEM site/course/... - 201701221
 - [ ] [Math Group math texts - GitHub](https://github.com/B3nszy/The-Math-Group) - to learn more Math - 20170122 - teach Math better
