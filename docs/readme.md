@@ -1,4 +1,4 @@
-[Learning To Do list](./learning-to-do-list.md) | [100 Days of Writing](https://github.com/janzeteachesit/100-days-of-writing/blob/master/log.md) | [100 Days of Code](https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md)
+[Learning To Do list](./learning-to-do-list.md) | [100 Days of Writing](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/readme.md) | [100 Days of Code](https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md)
 
 # Forever Learning
 
