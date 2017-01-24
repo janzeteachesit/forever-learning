@@ -10,7 +10,7 @@
     - [ ] [github-fork-a-repo](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-fork-a-repo.md)
     - [ ] [github-pages](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-pages.md)
     - [ ] [github-sync-a-repo](https://github.com/templetontitan/20162017-classroom-outline/blob/master/knowledge/github-sync-a-repo.md)
-- [ ] [GitHub Pages themes](https://github.com/pages-themes) - override a Jekyll theme's defaults with your site's content. For more information about the Jekyll theme files you can override, see your theme's README or other documentation in your theme's source repository - 20170123 - setup easy to use STEM sites
+- [ ] [GitHub Pages themes](https://github.com/pages-themes) - override a Jekyll theme's defaults with your site's content. For more information about the Jekyll theme files you can override, see your theme's README or other documentation in your theme's source repository - 20170123 - setup easy to use STEM sites [Hacker theme](https://github.com/pages-themes/hacker)
     - [ ] [Custom Domain - GitHub](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
     - [ ] [ANAME vs CNAME - stackeoverflow](https://stackoverflow.com/questions/37362002/a-record-vs-cname-record-for-custom-domain)
     - [ ] [Questions about ANAME DNS records - stackexchange](https://webmasters.stackexchange.com/questions/89756/questions-about-aname-dns-records)
