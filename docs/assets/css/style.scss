@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+   background: #000000;
+}
 /*
 header h1 {
   color: #800000; // Maroon
