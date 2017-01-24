@@ -15,6 +15,7 @@
     - [ ] [ANAME vs CNAME - stackeoverflow](https://stackoverflow.com/questions/37362002/a-record-vs-cname-record-for-custom-domain)
     - [ ] [Questions about ANAME DNS records - stackexchange](https://webmasters.stackexchange.com/questions/89756/questions-about-aname-dns-records)
     - [ ] [godaddy and digitalocean setup](https://www.digitalocean.com/community/questions/i-have-a-godaddy-domain-but-my-site-is-hosted-on-digitalocean-how-do-i-forward-emails-using-godaddys-free-email-forwarding)
+- [ ] Markdown different links
 - [ ] [freeCodeCamp Academic Honesty](https://www.freecodecamp.com/academic-honesty) & [fcc GitHub Classroom](https://github.com/templetontitan/20162017-classroom-outline/blob/master/practice/freecodecamp.md) - own courses - 20170122:20170128
 - [ ] [freeCodeCamp/about](https://www.freecodecamp.com/about/) - Great example for STEM site/course/... - 201701221
 - [ ] [Math Group math texts - GitHub](https://github.com/B3nszy/The-Math-Group) - to learn more Math - 20170122 - teach Math better
