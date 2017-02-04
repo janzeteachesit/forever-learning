@@ -4,7 +4,7 @@
 
 ## When (added{:due}) - What - Why - How (implement it)
 
-- [ ] 20170203:20170203 create organization websites
+- [ ] 20170203:20170203 [create organization websites](https://help.github.com/articles/user-organization-and-project-pages/)
 - [ ] 20170122:20170123 - [GitHub classroom](https://classroom.github.com/classrooms/17445834-2016-2017-ap-csp-i2cs) -  Assignments: 
     - [ ] [Say Hello](https://classroom.github.com/assignment-invitations/1530a34b6103959d1b448bea84c51d73), [20162017-classroom-outline repo](https://github.com/templetontitan/20162017-classroom-outline)
     - [ ] [Set Up Learning Log](https://classroom.github.com/assignment-invitations/036035f4d79c5ffac8af470966f0b948),  [forever-learning repo](https://github.com/templetontitan/forever-learning)
