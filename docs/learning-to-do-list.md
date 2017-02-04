@@ -4,6 +4,7 @@
 
 ## When (added{:due}) - What - Why - How (implement it)
 
+- [ ] 20170203:201702 [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/) - check [GitHub Pages uses the following dependencies and versions](https://pages.github.com/versions/), [Front Matter](https://jekyllrb.com/docs/frontmatter/)
 - [ ] 20170203:20170203 [create organization websites](https://help.github.com/articles/user-organization-and-project-pages/)
 - [ ] 20170122:20170123 - [GitHub classroom](https://classroom.github.com/classrooms/17445834-2016-2017-ap-csp-i2cs) -  Assignments: 
     - [ ] [Say Hello](https://classroom.github.com/assignment-invitations/1530a34b6103959d1b448bea84c51d73), [20162017-classroom-outline repo](https://github.com/templetontitan/20162017-classroom-outline)
