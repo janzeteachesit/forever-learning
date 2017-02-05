@@ -15,7 +15,8 @@ links to
 ## Week Five 20170129 - 20170204
 * 20170204
   * [css testing platform ](https://codepen.io/janzeteachesit/pen/dNKMow)
-  # [GitHub Visualizer](http://ghv.artzub.com/#user=janzeteachesit)
+  * [GitHub Visualizer](http://ghv.artzub.com/#user=janzeteachesit)
+  * [LifeCalender - Codepen](https://codepen.io/janzeteachesit/pen/ggKLNL?editors=0010#0)
 * 20170206
   * learned a LOT of jekyll and github pages.  Sites in version .5
   - [ ] write about using Projects in GitHub
