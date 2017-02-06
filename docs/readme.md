@@ -10,7 +10,10 @@ links to
 * []()
 -->
 
-
+## Week Six 20170205 - 20170211
+* 20170205
+  * []()
+* 20170206
 
 ## Week Five 20170129 - 20170204
 * 20170204
@@ -22,10 +25,6 @@ links to
     * [How We Use GitHub Issues To Organize a Project - Ian Bicking: a blog](http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html)
     * - [ ] [Managing Projects with GitHub - Lullabot](https://www.lullabot.com/articles/managing-projects-with-github)
     * - [ ] [Waffle.io](https://waffle.io/)
-    * []()
-    * []()
-
-
 * 20170206
   * learned a LOT of jekyll and github pages.  Sites in version .5
   - [ ] write about using Projects in GitHub
