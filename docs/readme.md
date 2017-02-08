@@ -10,17 +10,27 @@ links to
 * []()
 -->
 
-
+## Week Six 20170205 - 20170211
+* 20170205
+  * []()
+* 20170206
 
 ## Week Five 20170129 - 20170204
 * 20170204
   * [css testing platform ](https://codepen.io/janzeteachesit/pen/dNKMow)
+  * [GitHub Visualizer](http://ghv.artzub.com/#user=janzeteachesit)
+  * [LifeCalender - Codepen](https://codepen.io/janzeteachesit/pen/ggKLNL?editors=0010#0)
+  * GithHub => (Sprint Backlog) Note <=> Issue (Feature Backlog) - Using Issues and Projects for Project Management.
+    * [Mastering Issues - GitHub Guide](https://guides.github.com/features/issues/)
+    * [How We Use GitHub Issues To Organize a Project - Ian Bicking: a blog](http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html)
+    * - [ ] [Managing Projects with GitHub - Lullabot](https://www.lullabot.com/articles/managing-projects-with-github)
+    * - [ ] [Waffle.io](https://waffle.io/)
 * 20170206
   * learned a LOT of jekyll and github pages.  Sites in version .5
   - [ ] write about using Projects in GitHub
 * 20170202
   * rebuilt [janzeteachesit.github.io](https://janzeteachesit.github.io/) now that I understand github better.
-
+  
 ## Week Four 20170122 - 20170128
 * 20170123
   * Published [My (Current) Publishing Workflow - Medium](https://janzeteachesit.github.io/100-days-of-writing/004-writing-workflow.html)
