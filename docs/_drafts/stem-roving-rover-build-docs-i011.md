@@ -33,8 +33,8 @@ stem-roving-rover-build-docs-i011.md
 - [X] [GPhoto](https://goo.gl/photos/e5J1m2RMkH9ym4758)
 
 
-. | Title | Responsibilities 
---|--|--
+Other| Title | Responsibilities 
+-----|-------|-----------------
 Feet|Materials Manager|Stuff
 Head|Build Manager|Handles the plan
 Hands|Lead Engineer| 
