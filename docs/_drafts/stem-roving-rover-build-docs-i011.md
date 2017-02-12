@@ -32,12 +32,14 @@ stem-roving-rover-build-docs-i011.md
 
 - [X] [GPhoto](https://goo.gl/photos/e5J1m2RMkH9ym4758)
 
-| . | Title | Responsibilities |
-|--|--|--|
-|Feet|Materials Manager|Stuff|
-|Head|Build Manager|Handles the plan|
-|Hands|Lead Engineer| |
-|Eyes|Media Manager| |
+
+. | Title | Responsibilities 
+--|--|--
+Feet|Materials Manager|Stuff
+Head|Build Manager|Handles the plan
+Hands|Lead Engineer| 
+Eyes|Media Manager|
+
 
 > We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.  - Richard P. Feynman
 ![Richard P. Feynman at Cornell University](https://upload.wikimedia.org/wikipedia/it/0/0b/Richard-feynman.jpg)
