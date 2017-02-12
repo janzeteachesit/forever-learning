@@ -10,6 +10,7 @@ stem-roving-rover-build-docs-i011.md
 2. Drop; what one bad idea/strategy definately drop?
 3. Add; what bring in or change to make things better next time?
 
+- [X] [GPhoto](https://goo.gl/photos/pbKHP7B5ryaEpe1X7)
 ## Roles and Responsibilites
 ### Materials Manager
 - tools; storage room; raw material
@@ -24,3 +25,11 @@ stem-roving-rover-build-docs-i011.md
 ### Media Manager/Videographer
 - capture progress
 - upload raw data everyday
+
+- [X] [GPhoto](https://goo.gl/photos/e5J1m2RMkH9ym4758)
+
+
+> We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.  - Richard P. Feynman
+
+- [Poster - aplusphysics.com](https://docs.google.com/viewer?url=http://aplusphysics.com/community/screenshots/monthly_05_2013/8a882a005f80803c07fb1a23cc2574cf-feynman.pdf)
+- [X] [GPhoto](https://goo.gl/photos/1ZHSNcmFGVc7pDSz6)
