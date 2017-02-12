@@ -11,17 +11,21 @@ stem-roving-rover-build-docs-i011.md
 3. Add; what bring in or change to make things better next time?
 
 - [X] [GPhoto](https://goo.gl/photos/pbKHP7B5ryaEpe1X7)
+
 ## Roles and Responsibilites
 ### Materials Manager
-- tools; storage room; raw material
+- tools; storage room; raw material 
+
 ### Lead Engineer
 - main hands-on person
 - can request/designate others to help
-  - example: arduino circuits/breadboarding
-  - example: chassis build
+   - example: arduino circuits/breadboarding
+   - example: chassis build
+
 ### Build Manager
 - plan; coordinate
 - goal-setting, stand-up and retrospective (K/D/A)
+
 ### Media Manager/Videographer
 - capture progress
 - upload raw data everyday
@@ -30,6 +34,6 @@ stem-roving-rover-build-docs-i011.md
 
 
 > We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.  - Richard P. Feynman
-![Richard P. Feynman at Cornell University](https://upload.wikimedia.org/wikipedia/it/0/0b/Richard-feynman.jpg =200px)
+![Richard P. Feynman at Cornell University](https://upload.wikimedia.org/wikipedia/it/0/0b/Richard-feynman.jpg)
 - [Poster - aplusphysics.com](https://docs.google.com/viewer?url=http://aplusphysics.com/community/screenshots/monthly_05_2013/8a882a005f80803c07fb1a23cc2574cf-feynman.pdf)
 - [X] [GPhoto](https://goo.gl/photos/1ZHSNcmFGVc7pDSz6)
