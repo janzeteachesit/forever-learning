@@ -1,4 +1,5 @@
-stem-roving-rover-build-docs-i011.md
+# STEM Roving Rover Build Docs
+__2017-02-06__
 
 ## Stand-up Questions
 1. What did I/We do last work session?
