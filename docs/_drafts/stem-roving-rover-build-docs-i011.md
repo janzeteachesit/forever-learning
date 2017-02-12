@@ -30,6 +30,6 @@ stem-roving-rover-build-docs-i011.md
 
 
 > We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.  - Richard P. Feynman
-
+![Richard P. Feynman at Cornell University](https://upload.wikimedia.org/wikipedia/it/0/0b/Richard-feynman.jpg =200px)
 - [Poster - aplusphysics.com](https://docs.google.com/viewer?url=http://aplusphysics.com/community/screenshots/monthly_05_2013/8a882a005f80803c07fb1a23cc2574cf-feynman.pdf)
 - [X] [GPhoto](https://goo.gl/photos/1ZHSNcmFGVc7pDSz6)
