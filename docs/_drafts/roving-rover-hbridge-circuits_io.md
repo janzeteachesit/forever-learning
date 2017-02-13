@@ -2,6 +2,10 @@
 
 ### [l293d-h-bridge - circuits.io](https://circuits.io/circuits/3946749-l293d-h-bridge/edit) - janzeteachesit tvbc
 
+[roving-rover-hbridge-circuits_io.md](https://github.com/janzeteachesit/Learning-Diary/blob/master/docs/_drafts/roving-rover-hbridge-circuits_io.md)
+
+[add to doc - Roving Rover Dual H-Bridge - Issue #21](https://github.com/janzeteachesit/Learning-Diary/issues/21)
+
 * https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=l293d+dual+h+bridge+circuit&tbs=qdr:y | l293d dual h bridge circuit - Google Search
 * http://www.robotplatform.com/howto/L293/motor_driver_2.html | Robot Platform | Howto | Motor Driver - L293D - 2
 * http://www.robotplatform.com/howto/L293/motor_driver_1.html | Robot Platform | Howto | Motor Driver - L293D - 1
