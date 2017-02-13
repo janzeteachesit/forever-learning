@@ -1,6 +1,11 @@
 # STEM Roving Rover Build Docs
 __2017-02-06__
 
+[stem-roving-rover-build-docs-i011.md](https://github.com/janzeteachesit/Learning-Diary/blob/20170204/docs/_drafts/stem-roving-rover-build-docs-i011.md)
+
+[Roving Rover Build II: docs Issue #11](https://github.com/janzeteachesit/Learning-Diary/issues/11)
+
+
 ## Stand-up Questions
 1. What did I/We do last work session?
 2. What job/work for this session?
