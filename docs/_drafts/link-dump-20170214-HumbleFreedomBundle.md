@@ -1,4 +1,3 @@
-* https://www.humblebundle.com/home/purchases | Humble Bundle - carl@janze.com
 * https://www.humblebundle.com/downloads?key=CKb6K6nnCshkCu22 | Humble Freedom Bundle (pay what you want and help charity)
 * http://freeholdgames.com/?page_id=39 | Freehold Games » The games
 * http://www.superhexagon.com/ | Super Hexagon
