@@ -5,18 +5,18 @@
 * https://cloudconvert.com/pricing | CloudConvert - Pricing
 * https://www.theatlantic.com/technology/archive/2013/08/what-is-medium/278965/ | What Is Medium? - The Atlantic
 * http://www.slate.com/articles/technology/technology/2015/02/email_overload_building_my_own_email_app_to_reach_inbox_zero.html | Email overload: Building my own email app to reach Inbox Zero.
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/janzeteachesit/markdown-gomix | janzeteachesit/markdown-gomix
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://help.github.com/articles/resolving-a-merge-conflict-on-github/ | Resolving a merge conflict on GitHub - User Documentation
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.google.ca/search?q=signal&rlz=1C1CHBF_enCA700CA700&oq=signal&aqs=chrome..69i57j69i65j0l4.1552j0j7&sourceid=chrome&ie=UTF-8 | signal - Google Search
+* https://github.com/janzeteachesit/markdown-gomix | janzeteachesit/markdown-gomix
+* https://help.github.com/articles/resolving-a-merge-conflict-on-github/ | Resolving a merge conflict on GitHub - User Documentation
+* https://www.google.ca/search?q=signal&rlz=1C1CHBF_enCA700CA700&oq=signal&aqs=chrome..69i57j69i65j0l4.1552j0j7&sourceid=chrome&ie=UTF-8 | signal - Google Search
 * http://rachelnabors.com/archive/ | Writings on Web Animation, UX, and HTML5 Game Development - Rachel Nabors, award-winning cartoonist turned digital storyteller.
 * https://www.comparitech.com/blog/vpn-privacy/how-to-encrypt-email/ | How to Encrypt and Protect your Email | Comparitech
 * https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=gomix+npm | gomix npm - Google Search
 * https://gomix.com/#!/project/gomixmarkdown | README.md – Gomix
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://gomixmarkdown.gomix.me/ | Welcome to Gomix!
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/janzeteachesit/100-days-of-code/blob/master/code-bits/what-is-gomix-the-programmer-edition.md | 100-days-of-code/what-is-gomix-the-programmer-edition.md at master · janzeteachesit/100-days-of-code
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/janzeteachesit | janzeteachesit
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://codepen.io/janzeteachesit/pens/public/ | janzeteachesit on CodePen
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://codepen.io/janzeteachesit/pen/VPpWrb | Markdown App
+* https://gomixmarkdown.gomix.me/ | Welcome to Gomix!
+* https://github.com/janzeteachesit/100-days-of-code/blob/master/code-bits/what-is-gomix-the-programmer-edition.md | 100-days-of-code/what-is-gomix-the-programmer-edition.md at master · janzeteachesit/100-days-of-code
+* https://github.com/janzeteachesit | janzeteachesit
+* https://codepen.io/janzeteachesit/pens/public/ | janzeteachesit on CodePen
+* https://codepen.io/janzeteachesit/pen/VPpWrb | Markdown App
 * https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=gomix+install+html+tidy | gomix install html tidy - Google Search
 * https://hackernoon.com/easily-create-an-html-editor-with-designmode-and-contenteditable-7ed1c465d39b#.pg29xawub | Easily create an HTML editor with DesignMode and ContentEditable
 * https://html-online.com/editor/ | Online HTML Editor
@@ -56,30 +56,30 @@
 * https://open.hpi.de/courses?lang=en | Courses | openHPI
 * https://github.com/patrickjquinn/P-Brain.ai/ | patrickjquinn/P-Brain.ai: Natural language virtual assistant using Node.js + Bootstrap
 * https://gomix.com/#!/project/gomixtest-20170126 | README.md – Gomix
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://gomixtest-20170126.gomix.me/ | Welcome to Gomix!
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=gomix+import+from+github&tbs=qdr:y | gomix import from github - Google Search
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/integrations/gomix | Install Gomix · Integrations Directory
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://support.gomix.com/ | Gomix Support
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://coffee-pig.gomix.me/ | GitHub Import URL Generator
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/browse/bookmarks | Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07#.2oomwbo4g | Machine Learning for Dummies: Part 1
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2#.1qoaj4vw6 | Build a Node.js API in Under 30 Minutes
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://hackernoon.com/maths-students-are-trapped-in-searles-chinese-room-d5ab9eafbc51#.41sycwy9q | Maths students are trapped in Searle’s Chinese room
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://blog.kiddom.co/flipping-i-do-we-do-you-do-5f8e3395673#.p7b3snsqw | Flipping “I Do, We Do, You Do”
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/the-xplane-collection/in-defense-of-the-visual-alphabet-a8dcca7cf151#.a5ix1s2ui | In defense of the visual alphabet – The XPLANE Collection – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/@juokaz/how-to-ship-side-projects-eba6f26762f3#.891x20yq8 | How to ship side projects – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://hackernoon.com/mathematics-without-history-is-soulless-978436602fa4#.am6qnaupa | Mathematics without history is soulless
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://hackernoon.com/our-daily-standups-2e8e1eda943d#.pyk77833f | Our daily standups
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://webslides.tv/#slide=1 | WebSlides: Create Beautiful HTML Presentations
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=create+on+gomix | create on gomix - Google Search
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/@_gw | Gareth Wilson – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/gomix/gomix-and-the-evolution-of-paas-3624fed131b9#.8km2dglph | Gomix and the Evolution of PaaS – Gomix – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://gomix.com/#!/project/material-design | README.md – Gomix
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://getmdl.io/ | Material Design Lite
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://material-design.gomix.me/ | Material Design Lite
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://gomix.com/#!/project/mini-breakout | README.md – Gomix
+* https://gomixtest-20170126.gomix.me/ | Welcome to Gomix!
+* https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=gomix+import+from+github&tbs=qdr:y | gomix import from github - Google Search
+* https://github.com/integrations/gomix | Install Gomix · Integrations Directory
+* https://support.gomix.com/ | Gomix Support
+* https://coffee-pig.gomix.me/ | GitHub Import URL Generator
+* https://medium.com/browse/bookmarks | Medium
+* https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07#.2oomwbo4g | Machine Learning for Dummies: Part 1
+* https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2#.1qoaj4vw6 | Build a Node.js API in Under 30 Minutes
+* https://hackernoon.com/maths-students-are-trapped-in-searles-chinese-room-d5ab9eafbc51#.41sycwy9q | Maths students are trapped in Searle’s Chinese room
+* https://blog.kiddom.co/flipping-i-do-we-do-you-do-5f8e3395673#.p7b3snsqw | Flipping “I Do, We Do, You Do”
+* https://medium.com/the-xplane-collection/in-defense-of-the-visual-alphabet-a8dcca7cf151#.a5ix1s2ui | In defense of the visual alphabet – The XPLANE Collection – Medium
+* https://medium.com/@juokaz/how-to-ship-side-projects-eba6f26762f3#.891x20yq8 | How to ship side projects – Medium
+* https://hackernoon.com/mathematics-without-history-is-soulless-978436602fa4#.am6qnaupa | Mathematics without history is soulless
+* https://hackernoon.com/our-daily-standups-2e8e1eda943d#.pyk77833f | Our daily standups
+* https://webslides.tv/#slide=1 | WebSlides: Create Beautiful HTML Presentations
+* https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=create+on+gomix | create on gomix - Google Search
+* https://medium.com/@_gw | Gareth Wilson – Medium
+* https://medium.com/gomix/gomix-and-the-evolution-of-paas-3624fed131b9#.8km2dglph | Gomix and the Evolution of PaaS – Gomix – Medium
+* https://gomix.com/#!/project/material-design | README.md – Gomix
+* https://getmdl.io/ | Material Design Lite
+* https://material-design.gomix.me/ | Material Design Lite
+* https://gomix.com/#!/project/mini-breakout | README.md – Gomix
 * https://community.gomix.me/ | Gomix
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/janzeteachesit/gomixtest-20170126/pull/2 | Documentation - Notes by janzeteachesit · Pull Request #2 · janzeteachesit/gomixtest-20170126
+* https://github.com/janzeteachesit/gomixtest-20170126/pull/2 | Documentation - Notes by janzeteachesit · Pull Request #2 · janzeteachesit/gomixtest-20170126
 * http://www.w3schools.com/js/js_operators.asp | JavaScript Operators
 * https://hackernoon.com/learning-ai-if-you-suck-at-math-part-two-practical-projects-47d7a1e4e21f#.ghun7g2zb | Learning AI if You Suck at Math — Part Two — Practical Projects
 * https://hackernoon.com/is-typescript-worth-the-effort-1b3314e89cc#.7anym4hxh | Is Typescript worth the effort?
@@ -104,11 +104,11 @@
 * https://wiki.mozilla.org/Badges/badgekit | Badges/badgekit - MozillaWiki
 * https://wiki.mozilla.org/Badges | Badges - MozillaWiki
 * https://www.google.ca/search?q=badges&rlz=1C1CHBF_enCA700CA700&oq=badges&aqs=chrome..69i57j0l5.2718j0j7&sourceid=chrome&ie=UTF-8#q=badges+classroom&tbs=qdr:y&start=10 | badges classroom - Google Search
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://hackernoon.com/if-youve-got-an-older-machine-that-doesn-t-have-macros-or-a-probe-and-you-need-to-detect-broken-8da7d249825f#.6c30x1n6e | Cheap Broken Tool Detection for Haas
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://brightreads.com/teaching-teachers-to-play-video-games-1370be64c5a8#.k1v7skfab | Teaching Teachers to Play Video Games
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/so-meta/i-know-what-s-wrong-with-medium-people-don-t-use-recommends-correctly-e34197aa7431#.kwviv8gmj | I know what’s wrong with Medium: People don’t use Recommends correctly. – So meta – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/so-meta | So meta – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://www.openculture.com/freeaudiobooks | 900 Free Audio Books: Download Great Books for Free | Open Culture
+* https://hackernoon.com/if-youve-got-an-older-machine-that-doesn-t-have-macros-or-a-probe-and-you-need-to-detect-broken-8da7d249825f#.6c30x1n6e | Cheap Broken Tool Detection for Haas
+* https://brightreads.com/teaching-teachers-to-play-video-games-1370be64c5a8#.k1v7skfab | Teaching Teachers to Play Video Games
+* https://medium.com/so-meta/i-know-what-s-wrong-with-medium-people-don-t-use-recommends-correctly-e34197aa7431#.kwviv8gmj | I know what’s wrong with Medium: People don’t use Recommends correctly. – So meta – Medium
+* https://medium.com/so-meta | So meta – Medium
+* http://www.openculture.com/freeaudiobooks | 900 Free Audio Books: Download Great Books for Free | Open Culture
 * https://fit.google.com/ | Google Fit
 * https://www.google.ca/trends/?hl=en-GB | Google Trends
 * https://www.google.ca/search?q=templeton+stem+program&rlz=1C1CHBF_enCA700CA700&oq=templeton+stem+pro&aqs=chrome.0.0j69i57j69i64.3247j0j7&sourceid=chrome&ie=UTF-8#q=templeton+stem+program&tbs=qdr:y | templeton stem program - Google Search
@@ -210,9 +210,9 @@
 * https://docs.google.com/spreadsheets/d/1UoYGoNESYsl82-4yITAxrgWBkqNIFZi60K3f98pKeK0/edit#gid=1225560489 | squoddron-odds - Google Sheets
 * https://docs.google.com/viewer?url=http://www.stonetronix.com/nfx/gamedesign/Class%2013%20-%20Outlines.doc | Class 13 - Outlines.doc
 * http://www.dcs.gla.ac.uk/~kitty//scm/speaker_slides/rosamond.pdf | rosamond.pdf
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/14hyT3iO8IVuUjEmUfR_bhKv_oWDK66uyve8yeqeomjQ/edit#heading=h.hcz41xbzg9jt | Disease Dynamics - Unit Overview - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://phet.colorado.edu/en/simulations/category/by-level | By Grade Level - PhET Simulations
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://phet.colorado.edu/en/contributions/view/3496 | States of Matter Basics - PhET Contribution
+* https://docs.google.com/document/d/14hyT3iO8IVuUjEmUfR_bhKv_oWDK66uyve8yeqeomjQ/edit#heading=h.hcz41xbzg9jt | Disease Dynamics - Unit Overview - Google Docs
+* https://phet.colorado.edu/en/simulations/category/by-level | By Grade Level - PhET Simulations
+* https://phet.colorado.edu/en/contributions/view/3496 | States of Matter Basics - PhET Contribution
 * https://docs.google.com/document/d/1M6DjJsZZdQIa-MNnbxhR6-xQoUEqmnFQwinKClefbkM/edit#heading=h.gjdgxs | 20162017ElementarySTEMADSTCoding - Google Docs
 * https://docs.google.com/document/d/1Xavaq75g_c-JQkeg-RwKONvcIpvznBMe26cHhIIie_E/edit | ADST 6–7 - Google Docs
 * https://docs.google.com/document/d/1uBK1tMtQYng-iDM62rpRhrstLM4DcakPzypZugTIaZA/edit# | CSUnplugged_OS_2015_v3.2.2 - Google Docs
@@ -265,21 +265,21 @@
 * https://phet.colorado.edu/en/teaching-resources/planningToUsePhet | Planning to Use PhET
 * https://www.physport.org/recommendations/Entry.cfm?ID=93288 | What are some tips for using PhET with homework?
 * https://learno.net/courses | Courses overview - LEARNO
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/@reimaginaire/self-directed-learning-at-the-alternative-university-eacc94b823dd#.t1k3szbgn | Self-directed learning at The Alternative University – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/@halidaa/designing-learner-experience-2088d465036#.2ukd2kvsr | Designing Learner Experience – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://hackernoon.com/quick-development-with-nwb-35f3fee5d837#.77r6jja56 | Quick Development with nwb
+* https://medium.com/@reimaginaire/self-directed-learning-at-the-alternative-university-eacc94b823dd#.t1k3szbgn | Self-directed learning at The Alternative University – Medium
+* https://medium.com/@halidaa/designing-learner-experience-2088d465036#.2ukd2kvsr | Designing Learner Experience – Medium
+* https://hackernoon.com/quick-development-with-nwb-35f3fee5d837#.77r6jja56 | Quick Development with nwb
 * http://cmkpress.com/ | Constructing Modern Knowledge Press
 * http://www.ngeniustools.com/vertical-learning/index.html | Vertical Learning
 * http://www.computingexplorations.com/projects/teaching-a-robot-how-to-dance | Teaching a Robot How to Dance - Computing Explorations, LLC
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.google.ca/search?q=site%3Awww.ngeniustools.com&rlz=1C1CHBF_enCA700CA700&oq=site%3Awww.ngeniustools.com&aqs=chrome..69i57j69i58.1663j0j4&sourceid=chrome&ie=UTF-8#q=site:www.ngeniustools.com&start=20&filter=0 | site:www.ngeniustools.com - Google Search
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://www.ngeniustools.com/prime-factorization/index.html | Prime Factorization: GCF + LCM
+* https://www.google.ca/search?q=site%3Awww.ngeniustools.com&rlz=1C1CHBF_enCA700CA700&oq=site%3Awww.ngeniustools.com&aqs=chrome..69i57j69i58.1663j0j4&sourceid=chrome&ie=UTF-8#q=site:www.ngeniustools.com&start=20&filter=0 | site:www.ngeniustools.com - Google Search
+* http://www.ngeniustools.com/prime-factorization/index.html | Prime Factorization: GCF + LCM
 * https://medium.com/vertical-learning/why-we-should-learn-vertically-ae898e1ceb29#.nybvgaw69 | Why We Should Learn Vertically – Vertical Learning – Medium
 * https://verticalblocks.blogspot.ca/2016/05/why-we-should-learn-vertically.html | Building Blocks: Why We Should Learn Vertically
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/vertical-learning/where-seymour-papert-got-it-wrong-6203f94149d1#.b0idzbiml | Where Seymour Papert Got It Wrong – Vertical Learning – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/vertical-learning/information-processing-microworlds-and-drawing-area-4a14899bd628#.ndzo0wc8d | Information-Processing, Microworlds, and Drawing Area – Vertical Learning – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/vertical-learning/cognition-and-behavior-fe1935b6a6c#.dkhay9jox | Cognition and Behavior – Vertical Learning – Medium
+* https://medium.com/vertical-learning/where-seymour-papert-got-it-wrong-6203f94149d1#.b0idzbiml | Where Seymour Papert Got It Wrong – Vertical Learning – Medium
+* https://medium.com/vertical-learning/information-processing-microworlds-and-drawing-area-4a14899bd628#.ndzo0wc8d | Information-Processing, Microworlds, and Drawing Area – Vertical Learning – Medium
+* https://medium.com/vertical-learning/cognition-and-behavior-fe1935b6a6c#.dkhay9jox | Cognition and Behavior – Vertical Learning – Medium
 * https://medium.com/vertical-learning/driving-learning-in-the-r%C3%A9sum%C3%A9-project-b38b9005ad56#.7m4t10ekd | Driving Learning in The Résumé Project – Vertical Learning – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/vertical-learning/hill-climbing-and-prime-factorization-47141a8e0624#.3dvy5p338 | Hill Climbing and Prime Factorization – Vertical Learning – Medium
+* https://medium.com/vertical-learning/hill-climbing-and-prime-factorization-47141a8e0624#.3dvy5p338 | Hill Climbing and Prime Factorization – Vertical Learning – Medium
 * https://www.google.ca/search?q=vertical+learning&rlz=1C1CHBF_enCA700CA700&oq=vertical+learning&aqs=chrome..69i57j69i60j69i65j69i61j69i60l2.9929j0j7&sourceid=chrome&ie=UTF-8#tbs=qdr:y&q=vertical+learning+education | vertical learning education - Google Search
 * http://www.verticallearning.org/site/index.html | Vertical Learning Labs
 * http://www.verticallearning.org/app/drawarea/page/view/curriculumunit.html | Drawing Area - Curriculum Unit
@@ -326,7 +326,7 @@
 * http://wiki.ros.org/Robots/Ros2Bot | Robots/Ros2Bot - ROS Wiki
 * http://wiki.ros.org/Robots/TurtleBot | Robots/TurtleBot - ROS Wiki
 * https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator | Storing Values with the Assignment Operator | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://drive.google.com/drive/u/0/folders/0ByvJF_ceaiU9d0IySGIzQnlQVE0 | 1-CSCSPMINT - Google Drive
+* https://drive.google.com/drive/u/0/folders/0ByvJF_ceaiU9d0IySGIzQnlQVE0 | 1-CSCSPMINT - Google Drive
 * https://codepen.io/janzeteachesit/pen/ygOzWa | Cloak of Darkenss II
 * https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=dungeon%20generator | dungeon generator - Google Search
 * http://www.paratime.ca/cartography/index.html | Creative Commons Licensed Maps | Paratime Design Cartography | Old School RPGs
@@ -360,9 +360,9 @@
 * https://thedungeoneeringdad.blogspot.ca/2011/04/handful-of-sweet-arse-dungeon.html | The Dungeoneering Dad: A Handful of Sweet Arse Dungeon Generators
 * http://www.myth-weavers.com/generate_dungeon.php? | Dungeon Generator for D&D - Myth-Weavers
 * https://www.wizards.com/dnd/mapper/launcher.htm | Random Dungeon Generator Launcher - v 0.1.12 beta
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md | 100-days-of-code/log.md at master · janzeteachesit/100-days-of-code
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/janzeteachesit/100-days-of-code | janzeteachesit/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://gist.github.com/janzeteachesit/b8df19375d92716482d39e299d2d3e80 | LED Arduino Dice code updated for circuits.io by janzeteachesit - https://circuits.io/circuits/3668120-led-dice-v_02
+* https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md | 100-days-of-code/log.md at master · janzeteachesit/100-days-of-code
+* https://github.com/janzeteachesit/100-days-of-code | janzeteachesit/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable
+* https://gist.github.com/janzeteachesit/b8df19375d92716482d39e299d2d3e80 | LED Arduino Dice code updated for circuits.io by janzeteachesit - https://circuits.io/circuits/3668120-led-dice-v_02
 * https://medium.com/@Classkick/dewey-in-the-digital-age-49b08a4aa2a4#.e3wgho5gm | Dewey in the Digital Age: – Medium
 * https://www.edutopia.org/discussion/data-driven-design-and-process-stem | Data Driven Design and the Process of STEM | Edutopia
 * https://www.google.ca/search?q=DDD%2C+the+%E2%80%98bootstrapping+checklist&rlz=1C1CHBF_enCA700CA700&oq=DDD%2C+the+%E2%80%98bootstrapping+checklist&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | DDD, the ‘bootstrapping checklist - Google Search
@@ -422,11 +422,11 @@
 * http://connectwww.com/how-to-install-elementary-os-0-4-loki-on-oracle-virtualbox/5011/ | How to install Elementary OS 0.4 Loki on Oracle virtualbox | CONNECTwww.com
 * https://platform.everfi.net/teacher/home | EverFi Teacher Center - Dashboard
 * https://www.edx.org/xseries/edx-course-creator#courses | edX Course Creator | edX
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=ap%20computer%20science%20principles | ap computer science principles - Google Search
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://advancesinap.collegeboard.org/stem/science-practices | Science Practices - Advances in AP - The College Board
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://code.org/educate/csp | Computer Science Principles | Code.org
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/index.html | AP Central - Course Home Pages
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.edx.org/course/apr-computer-science-principles-harvardx-cs50-ap | CS50: Introduction to Computer Science | edX
+* https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=ap%20computer%20science%20principles | ap computer science principles - Google Search
+* https://advancesinap.collegeboard.org/stem/science-practices | Science Practices - Advances in AP - The College Board
+* https://code.org/educate/csp | Computer Science Principles | Code.org
+* http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/index.html | AP Central - Course Home Pages
+* https://www.edx.org/course/apr-computer-science-principles-harvardx-cs50-ap | CS50: Introduction to Computer Science | edX
 * http://apcsprinciples.org/ | csprinciples.org
 * http://apcsp.org/index.php/resource | Resources
 * http://apcsp.org/index.php/about | About
@@ -607,16 +607,16 @@
 * https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=tutorial%20setup%20phaser%20game%20dev%20environment%20codepen | tutorial setup phaser game dev environment codepen - Google Search
 * http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=6843 | Kingdom By The Sea by Jesse Freeman | Ludum Dare 34 | Ludum Dare
 * https://developer.amazon.com/blogs/post/Tx13SK3E7TU34AX/creating-a-game-design-document | Creating a Game Design Document : Amazon Developer Blogs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.freecodecamp.com/map | A Map to Learn to Code and Become a Software Engineer | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.freecodecamp.com/challenges/comment-your-javascript-code | Comment your JavaScript Code | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=free%20code%20camp%20100%20hours%20of%20code | free code camp 100 hours of code - Google Search
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://ma.tt/2015/11/dance-to-calypso/ | Dance to Calypso | Matt Mullenweg
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.reddit.com/r/FreeCodeCamp/comments/3v1fk2/free_code_camps_new_2080_hour_curriculum/ | Free Code Camp's new 2,080 hour curriculum : FreeCodeCamp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/FreeCodeCamp | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://joshuakemp.blogspot.ca/2015/09/why-you-should-never-finish-free-code.html | Why you should never finish Free Code Camp ~ Josh Kemp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://openhatch.org/missions/ | OpenHatch - Open source training missions
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://norvig.com/ | Peter Norvig
+* https://www.freecodecamp.com/map | A Map to Learn to Code and Become a Software Engineer | Free Code Camp
+* https://www.freecodecamp.com/challenges/comment-your-javascript-code | Comment your JavaScript Code | Free Code Camp
+* https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=free%20code%20camp%20100%20hours%20of%20code | free code camp 100 hours of code - Google Search
+* http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+* https://ma.tt/2015/11/dance-to-calypso/ | Dance to Calypso | Matt Mullenweg
+* https://www.reddit.com/r/FreeCodeCamp/comments/3v1fk2/free_code_camps_new_2080_hour_curriculum/ | Free Code Camp's new 2,080 hour curriculum : FreeCodeCamp
+* https://github.com/FreeCodeCamp | Free Code Camp
+* https://joshuakemp.blogspot.ca/2015/09/why-you-should-never-finish-free-code.html | Why you should never finish Free Code Camp ~ Josh Kemp
+* https://openhatch.org/missions/ | OpenHatch - Open source training missions
+* http://norvig.com/ | Peter Norvig
 * http://aima.cs.berkeley.edu/code.html | Online Code Repository
 * https://www.google.ca/search?q=Artificial+Intelligence%3A+A+Modern+Approach&rlz=1C1CHBF_enCA700CA700&oq=Artificial+Intelligence%3A+A+Modern+Approach&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8 | Artificial Intelligence: A Modern Approach - Google Search
 * http://aima.cs.berkeley.edu/ | Artificial Intelligence: A Modern Approach
@@ -649,27 +649,27 @@
 * http://www.littelfuse.com/technical-resources/technical-centers/commercial-vehicle-technical-center/poles-and-throws.aspx | SPST, SPDT, DPST, and DPDT Explained - Littelfuse
 * http://www.learningaboutelectronics.com/Articles/What-is-a-double-pole-single-throw-switch-DPST | Double Pole Single Throw (DPST) Switch
 * https://drive.google.com/drive/u/0/search?q=janzeteachesit%20profile | Search results - Google Drive
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.codeavengers.com/profile#all | Profile | Code Avengers
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/1hSmPZr9LhpAX4svDpCqio6wDGT1TZszM4bKNKlAlezA/edit | CommunicationCompetencyProfiles - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/12VtjKBS7AuGuCKbFAS9LBkt2X6PFC3WfTq0jjuHmyAk/edit | 1CandY1 - Profile Page -123456 Janze, Mister - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/1ZEbTjzp5oyrbjORiid2TXR-EFu5KpgAkWCOLW3MuyVo/edit | 581958-template-0_1 - Profile Page -123456 Janze, Mister - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://www.slnova.org/ | Welcome
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/1w_ez3W1Cr0zaV5yqiGygrZjlZV-c-Crm8rNRk6B4t6A/edit | Janzeteachesit Profile(s) - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/1VCXNsIDLqUMf8fWmgFo0Y6FJ3IABPy-TVkO_YWGXtrY/edit | janzeteachesit starred FreeCodeCampFreeCodeCamp - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/1vkCoBlbdymGugJlSc0cvVyBkvr5UF341KxziAUJS4BM/edit | Janzeteachesit Gm_com - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/spreadsheets/d/1CUJfR6C286aCGs-jqFKQRAveDswduqA852hwdkbpy-g/edit#gid=0 | Tweets by @janzeteachesit - Google Sheets
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://twitter.com/janzeteachesit | JanzeTeachesIt (@janzeteachesit) | Twitter
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.blogger.com/blogger.g?blogID=246523058146811640#allposts | Blogger: janzeteachesit - All posts
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/spreadsheets/d/1mT0IieTNR43Kz5oT1qJZjPXNEzdfuq9u2B0xuY3urGc/edit#gid=0 | janzeteachesit posts (1) - Google Sheets
+* https://www.codeavengers.com/profile#all | Profile | Code Avengers
+* https://docs.google.com/document/d/1hSmPZr9LhpAX4svDpCqio6wDGT1TZszM4bKNKlAlezA/edit | CommunicationCompetencyProfiles - Google Docs
+* https://docs.google.com/document/d/12VtjKBS7AuGuCKbFAS9LBkt2X6PFC3WfTq0jjuHmyAk/edit | 1CandY1 - Profile Page -123456 Janze, Mister - Google Docs
+* https://docs.google.com/document/d/1ZEbTjzp5oyrbjORiid2TXR-EFu5KpgAkWCOLW3MuyVo/edit | 581958-template-0_1 - Profile Page -123456 Janze, Mister - Google Docs
+* http://www.slnova.org/ | Welcome
+* https://docs.google.com/document/d/1w_ez3W1Cr0zaV5yqiGygrZjlZV-c-Crm8rNRk6B4t6A/edit | Janzeteachesit Profile(s) - Google Docs
+* https://docs.google.com/document/d/1VCXNsIDLqUMf8fWmgFo0Y6FJ3IABPy-TVkO_YWGXtrY/edit | janzeteachesit starred FreeCodeCampFreeCodeCamp - Google Docs
+* https://docs.google.com/document/d/1vkCoBlbdymGugJlSc0cvVyBkvr5UF341KxziAUJS4BM/edit | Janzeteachesit Gm_com - Google Docs
+* https://docs.google.com/spreadsheets/d/1CUJfR6C286aCGs-jqFKQRAveDswduqA852hwdkbpy-g/edit#gid=0 | Tweets by @janzeteachesit - Google Sheets
+* https://twitter.com/janzeteachesit | JanzeTeachesIt (@janzeteachesit) | Twitter
+* https://www.blogger.com/blogger.g?blogID=246523058146811640#allposts | Blogger: janzeteachesit - All posts
+* https://docs.google.com/spreadsheets/d/1mT0IieTNR43Kz5oT1qJZjPXNEzdfuq9u2B0xuY3urGc/edit#gid=0 | janzeteachesit posts (1) - Google Sheets
 * https://docs.google.com/document/d/1ATVuvGlno1rmJB0jc_ELjX7KQ2RtIdYCglKxMBRCXYw/edit | GitHub 2016-12-30 - Google Docs
 * http://fontpair.co/#six | Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.penflip.com/Penflip/help/blob/master/writing/Markdown.txt | Markdown Cheatsheet · Penflip
+* https://www.penflip.com/Penflip/help/blob/master/writing/Markdown.txt | Markdown Cheatsheet · Penflip
 * https://drive.google.com/drive/u/0/folders/0ByvJF_ceaiU9QWd2dzVpRUpEN2M | Math-KhanAcademy - Google Drive
 * https://docs.google.com/document/d/10A824TCgi6ZBOAfUIU8Y7pcdK0eCB2MNY2bDH1NBpLI/edit | Being something versus doing something - Google Docs
 * https://docs.google.com/document/d/1w_ez3W1Cr0zaV5yqiGygrZjlZV-c-Crm8rNRk6B4t6A/edit | Janzeteachesit Profile(s) - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/@richdecibels/rich-s-general-theory-of-blogging-aa2cb502fbc#.ldlwd2ls8 | Minimum Viable Post: the Lean Approach to Writing Your Masterpiece – Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://medium.com/ | Medium
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM | 1-Writing - Google Drive
+* https://medium.com/@richdecibels/rich-s-general-theory-of-blogging-aa2cb502fbc#.ldlwd2ls8 | Minimum Viable Post: the Lean Approach to Writing Your Masterpiece – Medium
+* https://medium.com/ | Medium
+* https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM | 1-Writing - Google Drive
 * https://docs.google.com/document/d/1b2gv9_2pFHgMsOPYdLC4YxHRyrE2NcPXkMFBtcH27xI/edit# | My Minimum Viable Post - Google Docs
 * https://medium.com/open-participatory-organized/a-manifesto-for-open-participation-60b62d327684#.vp0i23mfg | A Manifesto for the Open Participatory Organization – Our Future at Work – Medium
 * https://medium.com/open-participatory-organized/an-open-architecture-for-self-organization-4e85d4413e09#.anz53xh8a | An Open Architecture for Self-Organization – Our Future at Work – Medium
@@ -713,15 +713,15 @@
 * http://www.nvmusa.org/archives | From The Archives | NVM
 * https://www.humblebundle.com/home/library | Humble Bundle - carl@janze.com
 * https://www.linkedin.com/in/carljanze?trk=nav_responsive_tab_profile_pic | Edit Profile | LinkedIn
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.freecodecamp.com/challenges/build-a-tribute-page | Build a Tribute Page | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage | Build a Personal Portfolio Webpage | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.freecodecamp.com/challenges/comment-your-javascript-code | Comment your JavaScript Code | Free Code Camp
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://codepen.io/FreeCodeCamp/full/YqLyXB/ | UI/UX Design and Development
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.hackster.io/peter-nyboer/upcycle-your-old-speakers-with-c-h-i-p-4d16b2?ref=channel&ref_id=5276_trending___&offset=17 | Upcycle Your Old Speakers with C.H.I.P. - Hackster.io
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://www.hackster.io/BuddyC/c-h-i-p-radar-0da2d1?ref=channel&ref_id=5276_trending___&offset=11 | C.H.I.P. RADAR - Hackster.io
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://github.com/ | GitHub
+* https://www.freecodecamp.com/challenges/build-a-tribute-page | Build a Tribute Page | Free Code Camp
+* https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage | Build a Personal Portfolio Webpage | Free Code Camp
+* https://www.freecodecamp.com/challenges/comment-your-javascript-code | Comment your JavaScript Code | Free Code Camp
+* https://codepen.io/FreeCodeCamp/full/YqLyXB/ | UI/UX Design and Development
+* https://www.hackster.io/peter-nyboer/upcycle-your-old-speakers-with-c-h-i-p-4d16b2?ref=channel&ref_id=5276_trending___&offset=17 | Upcycle Your Old Speakers with C.H.I.P. - Hackster.io
+* https://www.hackster.io/BuddyC/c-h-i-p-radar-0da2d1?ref=channel&ref_id=5276_trending___&offset=11 | C.H.I.P. RADAR - Hackster.io
+* https://github.com/ | GitHub
 * https://codepen.io/janzeteachesit/pen/xRvrgL | FreeCodeCamp: A Tribute to Randall Munroe
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://drive.google.com/drive/u/0/folders/0ByvJF_ceaiU9d0IySGIzQnlQVE0 | 1-CSCSPMINT - Google Drive
+* https://drive.google.com/drive/u/0/folders/0ByvJF_ceaiU9d0IySGIzQnlQVE0 | 1-CSCSPMINT - Google Drive
 * https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=add%20bootstrap%20to%20html | add bootstrap to html - Google Search
 * https://www.google.ca/search?bih=954&biw=1680&tbs=simg:CAESsAIJ22dyZviW4NsapAILEKjU2AQaBAgJCEIMCxCwjKcIGmIKYAgDEijeH5AQ6RDkH-cf5hDwDtYb3xvyGsYuwS75JMcuzT7YL9A-kS-5L7ouGjB9L1D1rUokl1nrI0Xdh8mOumQ8e2iM_10Yrp0otlVL_1dO0vNL5zPbNjPK9-COHVMzUgBAwLEI6u_1ggaCgoICAESBAEXgMkMCxCd7cEJGo8BCiEKDmh1bWFuIGJlaGF2aW9y2qWI9gMLCgkvbS8wMnFkMHIKIQoPcHVibGljIHNwZWFraW5n2qWI9gMKCggvbS8wNjhrNAonChRtb3RpdmF0aW9uYWwgc3BlYWtlctqliPYDCwoJL20vMDVrYjhoCh4KDGVudHJlcHJlbmV1ctqliPYDCgoIL20vMDl4X3IM&q=randall+munroe+what+if&tbm=isch&sa=X&ved=0ahUKEwjp_uurqpnRAhVH5mMKHaUFCM8Qsw4ILQ#imgrc=22dyZviW4NuwTM%3A | randall munroe what if - Google Search
 * https://www.youtube.com/watch?v=I64CQp6z0Pk | Comics that ask "what if?" | Randall Munroe - YouTube
@@ -741,9 +741,9 @@
 * http://practices.learningaccelerator.org/topics/mastery-based-progression | Mastery-Based Progression | Blended & Personalized Learning Practices At Work
 * http://www.olin.edu/impact-report/2015/transforming-the-library/ | Transforming the Library 2015 | Olin College
 * https://docs.google.com/viewer?url=http://www.reapfoundation.org/wp-content/uploads/2012/03/faq-performance-based.pdf | faq-performance-based.pdf
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://drive.google.com/drive/u/0/my-drive | My Drive - Google Drive
+* https://drive.google.com/drive/u/0/my-drive | My Drive - Google Drive
 * https://docs.google.com/document/d/1Zh_hmQ8cQoeQDHMI-Le_8Pd176ZIVHRy0MByKcW3VxE/edit# | The Templeton Effect - Making “The Olin Effect” Your Own - Google Docs
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/1lXI7WodNQE2-UuPOIFVuexZXktp1KuyUVpSv3NqExVU/edit# | The Surprising Truth About Learning in Schools | Will Richardson | TEDxWestVancouverED - Google Docs
+* https://docs.google.com/document/d/1lXI7WodNQE2-UuPOIFVuexZXktp1KuyUVpSv3NqExVU/edit# | The Surprising Truth About Learning in Schools | Will Richardson | TEDxWestVancouverED - Google Docs
 * https://www.youtube.com/watch?v=sxyKNMrhEvY&feature=youtu.be | The Surprising Truth About Learning in Schools | Will Richardson | TEDxWestVancouverED - YouTube
 * http://upodn.com/phon.php | English Phonetic Transcription
 * http://www.post-gazette.com/life/my-generation/2016/01/01/My-Generation-Essay-Redefining-education/stories/201601010044 | My Generation Essay: Redefining education | Pittsburgh Post-Gazette
@@ -793,5 +793,5 @@
 * https://scienceleadership.org/ | Science Leadership Academy @ Center City
 * https://letters2president.org/ | Letters to the Next President 2.0
 * https://drive.google.com/drive/u/0/search?q=type:pdf%20gamemaker | Search results - Google Drive
-* chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://docs.google.com/document/d/196KmKGhbJJQvBG4TiwAt9ft_8-P-AQG6Y_e4jqxHdfg/edit | Online JavaScript Code Environments - Google Docs
+* https://docs.google.com/document/d/196KmKGhbJJQvBG4TiwAt9ft_8-P-AQG6Y_e4jqxHdfg/edit | Online JavaScript Code Environments - Google Docs
 * https://docs.google.com/document/d/1NLHFd4mhLlEQDzWQhKpog67cUs9Do-cQgODBDw_8HgI/edit#heading=h.9m834m4llik4 | Javascript Texts - Google Docs
