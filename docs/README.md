@@ -5,6 +5,7 @@
 - [This Page](README.md)
 - [The OLD readme.md](readme-old.md)
 - [Learning To Do list](learning-to-do-list.md)
+- [GotBooks](janzeteachesit-gitbooks.md)
 
 
 ## Other Places I Could Be
