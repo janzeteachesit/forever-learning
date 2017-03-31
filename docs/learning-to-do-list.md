@@ -1,4 +1,4 @@
-[Learning Diary](./readme.md)
+[Learning Diary](README.md)
 
 # My Great Big List of Things to Read, Learn and Do
 
