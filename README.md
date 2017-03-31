@@ -10,7 +10,7 @@ I will document the different strands of learning that I engage in. Here's a wee
 ## TOC 
 
 * [Learning To Do list](./docs/learning-to-do-list.md)
-* [Learning Diary](./docs/readme.md)
+* [Learning Diary](./docs/README.md)
 
 
 <!--
