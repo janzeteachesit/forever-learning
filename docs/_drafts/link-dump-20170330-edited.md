@@ -1,4 +1,4 @@
-[ janzeteachesit/sStory: A javascript library to help make full-browser-width magazine-style mini-sites. ] (https://github.com/janzeteachesit/sStory )
+- [ janzeteachesit/sStory: A javascript library to help make full-browser-width magazine-style mini-sites. ] (https://github.com/janzeteachesit/sStory )
 - [choose your own adventure javascript - Google Search ] (https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=choose+your+own+adventure+javascript&tbs=qdr:y&* )
 - [Codecademy-Exercise-Answers/Language Skills/JavaScript/Unit 01 Introduction to JavaScript/02 Code Your Own Adventure! at master · ummahusla/Codecademy-Exercise-Answers ] (https://github.com/ummahusla/Codecademy-Exercise-Answers/tree/master/Language%20Skills/JavaScript/Unit%2001%20Introduction%20to%20JavaScript/02%20Code%20Your%20Own%20Adventure! )
 - [How To Create A Simple Code Your Own Adventure Game With Javascript   Justin Woodie] (http://www.justinwoodie.com/2016/08/how-to-create-simple-code-your-own.html )
