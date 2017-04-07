@@ -1,4 +1,4 @@
-# Gitbooks
+# GitBooks
 
 ## [janzetachesit @ GitBooks](https://www.gitbook.com/@janzeteachesit)
 - 100 Days of writing [Read](https://janzeteachesit.gitbooks.io/100-days-of-writing/content/) | [Edit](https://www.gitbook.com/book/janzeteachesit/100-days-of-writing/edit#/edit/master/README.md) | [GitHub](https://github.com/janzeteachesit/100-days-of-writing): I'm challenging myself to 100 Days Of Writing
