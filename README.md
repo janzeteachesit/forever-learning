@@ -7,16 +7,8 @@ I will document the different strands of learning that I engage in. Here's a wee
 
 ## TOC 
 
-* [Learning To Do list](./docs/learning-to-do-list.md)
-* [Learning Diary](./docs/README.md)
+- [Learning To Do list](./docs/learning-to-do-list.md)
+- [Learning Diary](./docs/README.md)
 - [GitBooks updated list #390](https://github.com/janzeteachesit/Learning-Diary/issues/390)
 - [Issues search](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+author%3Ajanzeteachesit+GitBooks)
 
-
-<!--
-## Week One 20170101 - 20170107
-
-links to 
-
-* []()
--->
