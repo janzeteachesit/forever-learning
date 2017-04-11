@@ -1,6 +1,6 @@
 # Forever Learning
 
-[Writing Journal](https://github.com/janzeteachesit/100-days-of-writing/edit/master/README.md)
+[Writing Journal](https://github.com/janzeteachesit/100-days-of-writing/blob/master/README.md)
 
 ## My Learning Diary
 
