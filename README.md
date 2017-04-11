@@ -9,11 +9,11 @@ I will document the different strands of learning that I engage in. Here's a wee
 ## TOC 
 - [In Progress - 100 Days](https://github.com/janzeteachesit/100-days-of-writing/tree/master/in-progress): GitHub folder
   - csl
-  - drafts
-  - editing-tools
-  - gitbooks
-  - grist-article
-  - resources 
+  - [drafts](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/drafts.md)
+  - [editing-tools](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/editing-tools.md)
+  - [gitbooks](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/gitbooks.md)
+  - [grist-article](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/grist-articles.md)
+  - [resources](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/resources%2Cmd)
 - [GitBooks updated list #390](https://github.com/janzeteachesit/Learning-Diary/issues/390)
 - [Issues search](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+author%3Ajanzeteachesit+GitBooks)
 - [Learning To Do list](./docs/learning-to-do-list.md)
