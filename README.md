@@ -2,6 +2,9 @@
 
 [Writing Journal](https://github.com/janzeteachesit/100-days-of-writing/blob/master/README.md)
 
+
+[Organizing GitHub 20170430](https://drive.google.com/open?id=1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c)
+
 ## My Learning Diary
 
 I will document the different strands of learning that I engage in. Here's a week by week breakdown of projects I engaged in, the things I created, the resources I used, and a summary of what I learned that week.
