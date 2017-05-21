@@ -3,7 +3,7 @@
 ## GitPitch Test
 ### 20170520
 ---
-> This is the first slide.
+> This is the first slide. This presentation is at gitpitch.com/janzeteachesit/Learning-Diary](https://gitpitch.com/janzeteachesit/Learning-Diary)
 ---
 > ## PITCHME
 > ### [GITHUB FLAVORED MARKDOWN](https://gitpitch.com/#gitpitch-pitchme-markdown)
