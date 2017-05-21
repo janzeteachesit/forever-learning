@@ -1,6 +1,6 @@
----?image=https://gitpitch.com/chuck-norris-approved.jpg
+---?image=http://www.planwallpaper.com/static/images/cool-wallpapers_3.jpg
 ---
-> One day a cobra bit Chuck Norris's leg.
+> This is the first slide.
 ---
-> After five days of excruciating pain, the cobra died.
----?image=https://gitpitch.com/chuck-norris-thumbs-up.gif
+> This is the second slide.
+---?image=http://piskel-imgstore-b.appspot.com/img/9c08b91c-3dc3-11e7-a767-fffc0cda76dd.gif
