@@ -7,5 +7,5 @@
 ---
 > This is the second slide.
 ---
-> [](https://github.com/gitpitch/gitpitch/wiki)
+> [What is GitPitch? - GitPitch Wiki - GitHub](https://github.com/gitpitch/gitpitch/wiki)
 ---?image=http://piskel-imgstore-b.appspot.com/img/9c08b91c-3dc3-11e7-a767-fffc0cda76dd.gif
