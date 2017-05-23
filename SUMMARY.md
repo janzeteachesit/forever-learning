@@ -3,3 +3,5 @@
 * [GitBooks](docs/janzeteachesit-gitbooks.md)
 * [learning-to-do-list](docs/learning-to-do-list.md)
 * [Old README](docs/readme-old.md)
+* [Medium](docs/medium.md)
+  * [David Ng](docs/david-ng.md)
